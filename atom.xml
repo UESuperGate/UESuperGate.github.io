@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SuperGate</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-02-20T10:27:24.696Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>SuperGate</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AntCTF x D^3CTF</title>
+    <link href="http://example.com/2021/02/20/hello-world/"/>
+    <id>http://example.com/2021/02/20/hello-world/</id>
+    <published>2021-02-20T09:36:00.469Z</published>
+    <updated>2021-02-20T10:27:24.696Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="73d9a84c3f25fd6687ae468b728150cff952c199d665d31922f83d2df95119bb">8ce1d50b047490dec14d8e1e00375649bf60aa58cf0a4a862b4544f354427833e9457d91fa2035c1a413e6d97e52d9e7679170b031a30f30906e5a64c6d19711802d386946c11b03f278db085455de1d284415320fc956798be0d420a425b110f32eaf7d62e7b8b78b96590b20438b9f7effa6bfc380eb5070350da851ed1ff3acd71cccd0b7642e7366def288195a2e7d529c3b0bb05296877a9e4d88b2655455a46497ee28cc8dbb3c267763e628bc1fdd991b2583094fd140485532f6c5f3bab52ef8d4cf7e57b40f50af5bd6aac69d34cb494b761b4b758d0d46d91e22c9</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">please input key to explore more.</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
