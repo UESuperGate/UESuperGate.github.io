@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/friends/index.html</loc>
+    <loc>http://sup3rgate.xyz/friends/index.html</loc>
     
     <lastmod>2021-02-20</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/02/20/d3ctf%202021/</loc>
+    <loc>http://sup3rgate.xyz/2021/02/20/d3ctf%202021/</loc>
     
     <lastmod>2021-02-20</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/aboutme/index.html</loc>
+    <loc>http://sup3rgate.xyz/aboutme/index.html</loc>
     
     <lastmod>2021-02-20</lastmod>
     
@@ -24,7 +24,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://sup3rgate.xyz/</loc>
     <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
