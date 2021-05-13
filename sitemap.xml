@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/05/06/Construct%20Ethereum%20Private%20Chain%20and%20Debug%20Locally/Construct%20Ethereum%20Private%20Chain%20and%20Debug%20Locally/</loc>
+    
+    <lastmod>2021-05-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/04/06/%E8%BD%A6%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E5%85%A5%E9%97%A8%E6%80%BB%E7%BB%93/%E8%BD%A6%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E5%85%A5%E9%97%A8%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2021-04-07</lastmod>
@@ -39,7 +46,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-04-07</lastmod>
+    <lastmod>2021-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
