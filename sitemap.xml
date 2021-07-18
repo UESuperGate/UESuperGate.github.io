@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/friends/index.html</loc>
+    
+    <lastmod>2021-07-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/05/06/Construct%20Ethereum%20Private%20Chain%20and%20Debug%20Locally/Construct%20Ethereum%20Private%20Chain%20and%20Debug%20Locally/</loc>
     
     <lastmod>2021-05-14</lastmod>
@@ -30,13 +37,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/friends/index.html</loc>
-    
-    <lastmod>2021-02-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/aboutme/index.html</loc>
     
     <lastmod>2021-02-20</lastmod>
@@ -46,7 +46,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-05-14</lastmod>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
